@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+folium
+matplotlib
+cartopy
+shapely
+rasterio
+mapclassify
+fiona
+mplleaflet
+jupyter
